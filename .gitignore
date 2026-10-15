@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/README.txt
+!/01_basis/
+!/01_basis/01_basis.ipynb
+!/01_basis/data/
+!/01_basis/data/market.csv
+!/01_basis/data/basis.csv
